@@ -10,5 +10,6 @@ public class Hello{
 		Emp emp = new Emp();
 		System.out.println("临近中午适合学习，因为饿了");
 		Date date = new Date();
+		System.out.println("要多运动，好好学习");
 	}
 }
